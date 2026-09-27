@@ -97,14 +97,23 @@ policy, the ground truth and the evals live outside its reach.
 
 ## Running it
 
+    git clone <this repo> && cd jev-buildathon-atharva
+    ./setup.sh                    # fetches policykit, builds the agent's run dir
+
+then
+
     npm i -g failproofai@next
     failproofai config --token <your FailproofAI Cloud key>
     failproofai jev test
     failproofai policies -i -c ./rca-policies.mjs --cli claude --scope project
 
-`policykit/index.mjs` is **not included** — it comes from
-[FailproofAI/jev-buildathon](https://github.com/FailproofAI/jev-buildathon), which
-ships no LICENSE, so it is not redistributed here. Copy it in before running.
+`setup.sh` fetches `policykit/index.mjs` from
+[FailproofAI/jev-buildathon](https://github.com/FailproofAI/jev-buildathon) at
+install time rather than vendoring it — that repo ships no LICENSE, so it is not
+redistributed here.
+
+See **AGENT.md** for what the agent is and what it is told, and **TASKS.md** for
+the two prompts and their correct answers.
 
 ## Status
 

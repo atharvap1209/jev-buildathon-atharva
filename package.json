@@ -1,0 +1,14 @@
+{
+  "name": "jev-evidence-gate",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A two-tier Jev guard on pharma deviation dispositions",
+  "scripts": {
+    "setup": "./setup.sh",
+    "probe": "node probe-jev.mjs",
+    "probe:control": "node probe-b.mjs",
+    "consistency": "node consistency.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
