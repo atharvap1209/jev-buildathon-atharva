@@ -1,0 +1,8 @@
+[
+  { "timestamp": "2026-09-09T08:41", "equipment_tag": "T-1590", "event": "PARAMETER_DRIFT", "parameter": "compression_force_kn", "value": 18.4, "limit": "NMT 18.0", "duration_min": 6, "ack_by": "OP-301" },
+  { "timestamp": "2026-09-14T09:52", "equipment_tag": "T-1590", "event": "ALARM", "parameter": "compression_force_kn", "value": 19.6, "limit": "NMT 18.0", "duration_min": 18, "ack_by": "OP-114" },
+  { "timestamp": "2026-09-14T10:15", "equipment_tag": "T-1590", "event": "MANUAL_SETPOINT_CHANGE", "parameter": "compression_force_setpoint_kn", "value": 16.5, "limit": null, "duration_min": null, "ack_by": "OP-114" },
+  { "timestamp": "2026-09-14T11:18", "equipment_tag": "T-1590", "event": "MACHINE_STOP", "parameter": null, "value": null, "limit": null, "duration_min": null, "ack_by": "OP-114" },
+  { "timestamp": "2026-09-22T13:40", "equipment_tag": "T-0885", "event": "CYCLE_COMPLETE", "parameter": "blend_time_min", "value": 12, "limit": "20 min per SOP-PRD-022 rev 6.0", "duration_min": 12, "ack_by": "OP-207" },
+  { "timestamp": "2026-09-18T11:02", "equipment_tag": "T-0885", "event": "CYCLE_COMPLETE", "parameter": "blend_time_min", "value": 20, "limit": "20 min per SOP-PRD-022 rev 6.0", "duration_min": 20, "ack_by": "OP-301" }
+]

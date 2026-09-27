@@ -1,0 +1,30 @@
+L001| 05/09 Shift A - line startup N block, clearance done, no issues
+L002| 05/09 Shift A - B261270 compression started 0840
+L003| 05/09 Shift B - running normal, tooling checked at changeover
+L004| 07/09 Shift A - B261270 completed, handover to coating
+L005| 09/09 Shift A - B261277 start. T-1590 force reading jumpy on startup, settled after 10 min
+L006| 09/09 Shift A - raised obs to supervisor, advised monitor
+L007| 09/09 Shift B - canteen shut, break rotation adjusted
+L008| 11/09 Shift A - B261277 done, yield ok
+L009| 12/09 Shift B - planned maint window, T-0954 metal detector checked
+L010| 13/09 Shift A - B261284 dispensing complete, no issues
+L011| 13/09 Shift B - granulation and drying normal
+L012| 14/09 Shift A - B261284 compression start 0830
+L013| 14/09 Shift A - T-1590 running rough since the changeover, force creeping up
+L014| 14/09 Shift A - noticed cal sticker on the load cell looks out of date, flagged to supervisor
+L015| 14/09 Shift A - called maintenance, advised to continue and monitor, ticket MNT-3312 raised
+L016| 14/09 Shift A - force readings still drifting, adjusted setpoint down manually to 16.5
+L017| 14/09 Shift A - alarm at 0952, ran ~18 min above limit before we caught it
+L018| 14/09 Shift A - machine stopped 1118, tablets from that window segregated, dev raised
+L019| 14/09 Shift B - line down, awaiting QA
+L020| 16/09 Shift A - HVAC filter change M block, no production
+L021| 18/09 Shift A - B261340 blending, 20 min cycle as per current SOP, OP-301 running
+L022| 18/09 Shift B - B261340 compression normal
+L023| 20/09 Shift A - B261340 completed clean
+L024| 21/09 Shift A - B261356 dispensing done
+L025| 22/09 Shift A - OP-207 on the blender today, first time on metformin
+L026| 22/09 Shift A - asked about blend time, said the SOP he did says 12 min, went with that
+L027| 22/09 Shift A - blend cycle ended 1340
+L028| 22/09 Shift B - BU sample loc 6 came back low, 88.2
+L029| 22/09 Shift B - blend on hold, dev raised, QA informed
+L030| 23/09 Shift A - no production, cleaning

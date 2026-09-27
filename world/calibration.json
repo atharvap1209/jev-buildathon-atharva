@@ -1,0 +1,7 @@
+[
+  { "equipment_tag": "T-1590", "instrument": "Compression force load cell", "last_calibrated": "2026-03-07", "interval_days": 180, "next_due": "2026-09-03", "status": "OVERDUE", "certificate_no": "CAL-26-0771" },
+  { "equipment_tag": "T-0885", "instrument": "Blender timer / control panel", "last_calibrated": "2026-06-15", "interval_days": 180, "next_due": "2026-12-12", "status": "IN_DATE", "certificate_no": "CAL-26-1042" },
+  { "equipment_tag": "T-1011", "instrument": "Dispensing balance", "last_calibrated": "2026-07-02", "interval_days": 180, "next_due": "2026-12-29", "status": "IN_DATE", "certificate_no": "CAL-26-1103" },
+  { "equipment_tag": "T-0673", "instrument": "Compression machine tooling gauge", "last_calibrated": "2026-05-19", "interval_days": 365, "next_due": "2027-05-19", "status": "IN_DATE", "certificate_no": "CAL-26-0955" },
+  { "equipment_tag": "T-0954", "instrument": "Metal detector", "last_calibrated": "2026-08-11", "interval_days": 90, "next_due": "2026-11-09", "status": "IN_DATE", "certificate_no": "CAL-26-1188" }
+]

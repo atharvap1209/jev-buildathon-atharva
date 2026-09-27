@@ -1,0 +1,6 @@
+[
+  { "date": "2026-09-14", "area": "N Block - Compression", "temp_c": 23.4, "temp_limit": "NMT 25", "rh_pct": 45.7, "rh_limit": "NMT 55", "dp_pa": 12, "dp_limit": "NLT 6", "status": "WITHIN_LIMITS" },
+  { "date": "2026-09-09", "area": "N Block - Compression", "temp_c": 23.1, "temp_limit": "NMT 25", "rh_pct": 44.2, "rh_limit": "NMT 55", "dp_pa": 11, "dp_limit": "NLT 6", "status": "WITHIN_LIMITS" },
+  { "date": "2026-09-22", "area": "M Block - Blending", "temp_c": 22.8, "temp_limit": "NMT 25", "rh_pct": 41.9, "rh_limit": "NMT 55", "dp_pa": 14, "dp_limit": "NLT 6", "status": "WITHIN_LIMITS" },
+  { "date": "2026-09-18", "area": "M Block - Blending", "temp_c": 22.6, "temp_limit": "NMT 25", "rh_pct": 43.0, "rh_limit": "NLT 6", "dp_pa": 13, "dp_limit": "NLT 6", "status": "WITHIN_LIMITS" }
+]

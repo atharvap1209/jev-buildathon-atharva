@@ -1,0 +1,26 @@
+[
+  {
+    "id": "DEV-26-0311",
+    "raised_on": "2026-09-14T11:20",
+    "raised_by": "OP-114",
+    "batch_no": "B261284",
+    "product": "Atorvastatin Tablets", "strength": "20 mg",
+    "stage": "5.0 Compression",
+    "equipment_tag": "T-1590",
+    "observation": "Compression force trended above the validated upper limit of 18 kN for approximately 18 minutes. Tablets produced during the affected period were segregated.",
+    "immediate_action": "Machine stopped, in-process samples pulled, batch placed on hold.",
+    "classification": null
+  },
+  {
+    "id": "DEV-26-0412",
+    "raised_on": "2026-09-22T15:05",
+    "raised_by": "OP-207",
+    "batch_no": "B261356",
+    "product": "Metformin HCl Tablets", "strength": "500 mg",
+    "stage": "4.0 Blending",
+    "equipment_tag": "T-0885",
+    "observation": "Blend uniformity sample from location 6 returned 88.2% of label claim against an acceptance range of 90.0-110.0%. Blending time recorded as 12 minutes against a specified 20 minutes.",
+    "immediate_action": "Blend held, re-sampling requested.",
+    "classification": null
+  }
+]

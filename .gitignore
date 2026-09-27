@@ -1,0 +1,8 @@
+node_modules/
+.failproofai/
+.claude/
+disposition.json
+
+# policykit/index.mjs comes from FailproofAI/jev-buildathon, which ships no
+# LICENSE. Not redistributed here — see README.
+policykit/

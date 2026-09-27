@@ -1,0 +1,6 @@
+[
+  { "material": "Atorvastatin Ca Propylene Glycol Solvate USP", "lot_no": "L26-0884", "supplier": "SUP-041", "assay_pct": 90.8, "retest_date": "2027-04-30", "released_on": "2026-08-12", "used_in": ["B261270","B261277","B261284"] },
+  { "material": "Microcrystalline Cellulose PH102", "lot_no": "L26-0912", "supplier": "SUP-018", "assay_pct": 99.6, "retest_date": "2027-08-31", "released_on": "2026-08-20", "used_in": ["B261270","B261277","B261284"] },
+  { "material": "Metformin HCl USP", "lot_no": "L26-1033", "supplier": "SUP-041", "assay_pct": 99.2, "retest_date": "2027-06-30", "released_on": "2026-09-01", "used_in": ["B261340","B261356"] },
+  { "material": "Magnesium Stearate", "lot_no": "L26-0977", "supplier": "SUP-022", "assay_pct": 99.9, "retest_date": "2027-03-31", "released_on": "2026-08-28", "used_in": ["B261340","B261356"] }
+]

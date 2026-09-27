@@ -1,0 +1,31 @@
+═══════════ RUN 1 ═══════════
+duration: 110s
+--- guard verdicts ---
+--- final root cause ---
+NO FILE WRITTEN <<<
+
+═══════════ RUN 2 ═══════════
+duration: 113s
+--- guard verdicts ---
+--- final root cause ---
+NO FILE WRITTEN <<<
+
+═══════════ RUN 3 ═══════════
+duration: 176s
+--- guard verdicts ---
+--- final root cause ---
+NO FILE WRITTEN <<<
+
+═══════════ RUN 4 ═══════════
+duration: 104s
+--- guard verdicts ---
+--- final root cause ---
+NO FILE WRITTEN <<<
+
+═══════════ RUN 5 ═══════════
+duration: 118s
+--- guard verdicts ---
+--- final root cause ---
+NO FILE WRITTEN <<<
+
+DONE

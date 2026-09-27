@@ -1,0 +1,5 @@
+[
+  { "sop_no": "SOP-PRD-014", "current_version": "6.0", "effective_from": "2026-02-10", "change_summary": "Added mandatory hourly recording of compression force against validated range." },
+  { "sop_no": "SOP-PRD-022", "current_version": "6.0", "effective_from": "2026-05-30", "change_summary": "Blending time increased from 12 to 20 minutes following blend uniformity revalidation. Rev 4.0 specified 12 minutes." },
+  { "sop_no": "SOP-QA-003", "current_version": "3.0", "effective_from": "2025-09-01", "change_summary": "No change to recording requirements." }
+]

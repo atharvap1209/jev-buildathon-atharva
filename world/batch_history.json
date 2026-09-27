@@ -1,0 +1,7 @@
+[
+  { "batch_no": "B261270", "product": "Atorvastatin Tablets", "strength": "20 mg", "equipment_used": ["T-1011","T-1590","T-0954"], "started": "2026-09-05", "completed": "2026-09-07", "yield_pct": 97.4, "deviations": [] },
+  { "batch_no": "B261277", "product": "Atorvastatin Tablets", "strength": "20 mg", "equipment_used": ["T-1011","T-1590","T-0954"], "started": "2026-09-09", "completed": "2026-09-11", "yield_pct": 96.8, "deviations": ["DEV-26-0298"] },
+  { "batch_no": "B261284", "product": "Atorvastatin Tablets", "strength": "20 mg", "equipment_used": ["T-1011","T-1590","T-0954"], "started": "2026-09-13", "completed": null, "yield_pct": null, "deviations": ["DEV-26-0311"] },
+  { "batch_no": "B261340", "product": "Metformin HCl Tablets", "strength": "500 mg", "equipment_used": ["T-1011","T-0885"], "started": "2026-09-18", "completed": "2026-09-20", "yield_pct": 98.1, "deviations": [] },
+  { "batch_no": "B261356", "product": "Metformin HCl Tablets", "strength": "500 mg", "equipment_used": ["T-1011","T-0885"], "started": "2026-09-21", "completed": null, "yield_pct": null, "deviations": ["DEV-26-0412"] }
+]
